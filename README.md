@@ -1,1 +1,1 @@
-Comparing Linear Regression, Random Forest and Tensorflow with Keras and testing their accuracy on rental price prediction
+Efficiency testing of Linear Regression, Random Forest, Tensorflow with Keras
