@@ -1,4 +1,3 @@
-Project 1 : Efficiency testing of Linear Regression, Random Forest, Tensorflow with Keras
+# Efficiency testing of Linear Regression, Random Forest, Tensorflow with Keras
 
-
-Project 2 : Vanilla Option Pricing and accounting for implied volatility and dividends
+### Comparing the efficiency of Machine Learning Algorithms on Rental Price Prediction
